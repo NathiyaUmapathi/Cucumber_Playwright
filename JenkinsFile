@@ -37,4 +37,8 @@ pipeline {
             junit allowEmptyResults: true, testResults: 'reports/junit/*.xml'
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f64f500809854f95f98dd28b6066aeb3032f87b4
