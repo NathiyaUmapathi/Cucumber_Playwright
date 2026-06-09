@@ -1,4 +1,5 @@
 Feature: Login Functionality
+@smoke  
     Scenario: Verify the valid login process
         Given User launch the application
         When User enter the username and password
